@@ -1,6 +1,12 @@
 # DIO-LiveCoding-AWS-BigData
-Repositório de cógido do Dio Live Coding com AWS EMR e Python
+Execução de Job MapReduce com Python MrJob e AWS EMR para análise de dados textuais não estruturados
 Neste repositório há os arquivos de configuração e execução de análise de dados.
+
+Documentação do MrJob: https://github.com/Yelp/mrjob
+
+### Arquitetura do Projeto
+
+![arquitetura do projeto](https://cdn-images-1.medium.com/max/800/1*uPr46z555fiJfHeaz8gh3g.png)
 
 ## Instruções
 
